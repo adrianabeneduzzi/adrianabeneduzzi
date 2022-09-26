@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho com testes e qualidade de software
 - 🌱 Estudando Javascript e continuamente sobre testes e qualidade de software
 - 💬 Pergunte-me sobre testes e qualidade de software
-- 😄 Pronomes: Ela/dela
+- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/adrianabeneduzzi">

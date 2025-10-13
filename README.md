@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com testes e qualidade de software
-- 🌱 Estudando Javascript e continuamente sobre testes e qualidade de software
+- 🌱 Estudando Javascript/Python e continuamente sobre testes e qualidade de software
 - 💬 Pergunte-me sobre testes e qualidade de software
 - 😄 Pronomes: Ela/Dela
 
